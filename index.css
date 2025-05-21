@@ -1,0 +1,61 @@
+body{
+    background-color:  #C4C4C4;
+    
+}
+
+ h2{background-color:whitesmoke ;
+
+}
+
+button{
+    padding:15px ;
+    background-color: #EDBABA;
+    margin: 10px;
+
+}
+
+.Couch{ background-color: #5CFFFF ; 
+    text-align: center;
+    box-sizing:border-box 1px;
+    box-shadow: inset;
+    padding: 1cm;
+    margin: 5cm;
+
+
+}
+
+.Table {background-color: greenyellow;
+    text-align: center;
+    text-align: center;
+    box-sizing:border-box 1px;
+    box-shadow: inset;
+    padding: 1cm;
+    margin: 5cm;
+
+}
+
+.Chair {background-color: #D4F0F2;
+    text-align: center;
+    text-align: center;
+    box-sizing:border-box 1px;
+    box-shadow: inset;
+    padding: 1cm;
+    margin: 5cm;
+
+}
+
+button{ font-style: italic; 
+          
+
+}
+
+button:hover{
+    background-color: green;
+    cursor: pointer;
+}
+
+p{text-align: center;
+
+}
+
+
